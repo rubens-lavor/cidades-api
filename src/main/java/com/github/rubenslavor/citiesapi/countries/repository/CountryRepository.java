@@ -1,4 +1,4 @@
-package com.github.rubenslavor.citiesapi.repository;
+package com.github.rubenslavor.citiesapi.countries.repository;
 
 import com.github.rubenslavor.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
