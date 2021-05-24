@@ -1,4 +1,4 @@
-package com.github.rubenslavor.citiesapi.staties;
+package com.github.rubenslavor.citiesapi.states;
 
 import java.util.List;
 import javax.persistence.Basic;
