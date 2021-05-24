@@ -1,4 +1,4 @@
-package com.github.rubenslavor.cities.api;
+package com.github.rubenslavor.citiesapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

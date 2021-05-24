@@ -1,4 +1,4 @@
-package com.github.rubenslavor.cities.api;
+package com.github.rubenslavor.citiesapi.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
